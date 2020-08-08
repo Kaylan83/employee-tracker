@@ -1,0 +1,24 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "The application help add, update, delete, an employee",
+  "main": "CMS.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaylan83/employee-tracker.git"
+  },
+  "author": "Murad",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "console.table": "0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Kaylan83/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Kaylan83/employee-tracker#readme"
+}
